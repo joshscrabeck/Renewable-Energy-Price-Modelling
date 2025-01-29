@@ -3,7 +3,7 @@
 
 ## Overview
 
-### This project focuses on forecasting renewable energy prices using a combination of linear and non-linear models. The models leverage historical energy price data to make predictions, providing insights that can support decision-making in energy markets.
+### This project focuses on forecasting renewable energy prices using a combination of linear and non-linear models. The models leverage historical renewable energy price data to make predictions, providing insights that can support decision-making in energy markets.
 
 ## Linear Models
 ### Autoregressive Integrated Moving Average (ARIMA)
